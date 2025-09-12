@@ -36,7 +36,7 @@ The case study was split into three parts:
 
 ---
 ## 📄 Presentation  
-👉 [View the full case study presentation (PDF)](presentation/Hastings_Pricing_Case_Study.pdf)  
+👉 [View the full case study presentation (PDF)](Hastings Direct - Task.pdf)  
 
 ---
 ## ⚠️ Disclaimer  
