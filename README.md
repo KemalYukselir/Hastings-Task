@@ -36,7 +36,7 @@ The case study was split into three parts:
 
 ---
 ## 📄 Presentation  
-👉 [View the full case study presentation (PDF)](Hastings Direct - Task.pdf)  
+👉 [View the full case study presentation (PDF)](https://github.com/KemalYukselir/Hastings-Task/blob/main/Hastings%20Direct%20-%20Task.pdf)  
 
 ---
 ## ⚠️ Disclaimer  
