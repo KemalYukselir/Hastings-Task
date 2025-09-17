@@ -1,25 +1,7 @@
 # Insurance Pricing Case Study  
 
 This repository contains my submission for a **Graduate Pricing Analyst case study** (2025).  
-The task was to analyse a insurance dataset, uncover insights, and present insights in a structured business presentation.  
-
----
-
-## 📊 Project Overview  
-The case study was split into three parts:  
-
-1. **Data Quality & Appropriateness**  
-   - Checked the dataset for missing fields, null values, and outliers.  
-   - Highlighted limitations such as partial years and immature exposure.  
-
-2. **Year-on-Year Analysis**  
-   - Compared **Year 1 (2018–2019)** with **Year 2 (2019–2020)**.  
-   - Looked at written vs earned premium, exposure patterns, and claims.  
-   - Found that while written premium was steady, earned premium fell sharply — partly from later policies not yet fully developed, but also from higher cancellations in Year 2.  
-
-3. **Product Recommendation**  
-   - Proposed a **Cargo Bike Insurance** product, reflecting the growth of micro-mobility and last-mile delivery.  
-   - Outlined market opportunity, customer need, theft risk, and competitive positioning.  
+The task was to analyse an insurance dataset, uncover insights, and present insights in a structured business presentation.  
 
 ---
 ## 🔑 Key Insights  
